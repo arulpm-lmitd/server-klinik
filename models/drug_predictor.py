@@ -71,8 +71,7 @@ class DrugPredictor:
                 self.initialization_status["message"] = "Loading model from Hugging Face..."
                 
                 self.model = SentenceTransformer(
-                    self.config.MODEL_NAME,
-                    trust_remote_code=True
+                    self.config.MODEL_NAME
                 )
                 
                 logger.info("Model loaded successfully!")
