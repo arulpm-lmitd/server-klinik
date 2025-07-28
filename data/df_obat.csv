@@ -1,0 +1,341 @@
+,ID,Nama,DeskripsiObat
+0,220,Amlodipin 10 mg,Obat antihipertensi golongan calcium channel blocker untuk menurunkan tekanan darah tinggi dan mengobati angina
+1,221,Meloxicam 15 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri dan peradangan pada artritis
+2,222,Simvastatin 20 mg,Obat penurun kolesterol golongan statin untuk menurunkan kadar kolesterol LDL dan trigliserida
+3,223,Captopril 25 mg,Obat antihipertensi golongan ACE inhibitor untuk menurunkan tekanan darah tinggi
+4,224,Hydrochlorothiazide 25 mg,Obat diuretik untuk menurunkan tekanan darah dan mengurangi retensi cairan
+5,226,Diclofenac Sodium 50 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri dan peradangan
+6,227,Dimenhydrinate 50 mg,Obat antihistamin untuk mencegah dan mengobati mual muntah serta motion sickness
+7,228,Clopidogrel 75 mg,Obat antiplatelet untuk mencegah penggumpalan darah dan mengurangi risiko stroke
+8,229,Acyclovir 400 mg,Obat antiviral untuk mengobati infeksi virus herpes simpleks dan varicella zoster
+9,230,Azitromycin 500 mg,Antibiotik golongan makrolida untuk mengobati infeksi bakteri saluran pernapasan
+10,231,Pyrazinamid 500 mg,Obat antituberkulosis untuk mengobati tuberkulosis (TB) dalam kombinasi dengan obat lain
+11,232,"Captopril 12,5 mg",Obat antihipertensi golongan ACE inhibitor dosis rendah untuk menurunkan tekanan darah
+12,233,"Meloxicam 7,5 mg",Obat antiinflamasi nonsteroid (NSAID) dosis rendah untuk mengurangi nyeri dan peradangan
+13,234,Amoxicillin 500 mg,Antibiotik golongan penicillin untuk mengobati infeksi bakteri pada saluran pernapasan dan kemih
+14,235,Vitamin B6,Suplemen vitamin untuk mencegah dan mengobati defisiensi vitamin B6
+15,236,Antasida,Obat untuk menetralkan asam lambung dan mengurangi gejala maag
+16,237,Cotrimoxazol 480 mg,Antibiotik kombinasi untuk mengobati infeksi saluran kemih dan pneumonia
+17,238,Glyceryl Guaiacolate (GG),Obat ekspektoran untuk mengencerkan dahak dan meredakan batuk berdahak
+18,239,Ponconeuron,Suplemen neurotropik untuk kesehatan saraf dan mengatasi neuropati
+19,240,Ketoconazole krim,Obat antijamur topikal untuk mengobati infeksi jamur pada kulit
+20,241,Acyclovir krim,Obat antiviral topikal untuk mengobati herpes simpleks pada kulit
+21,242,Betason-N krim,Obat kombinasi kortikosteroid dan antibiotik untuk mengobati peradangan kulit dengan infeksi
+22,243,Miconazole krim,Obat antijamur topikal untuk mengobati infeksi jamur kulit seperti kandidiasis
+23,244,Gentamicin salep,Antibiotik topikal untuk mengobati infeksi bakteri pada kulit
+24,245,Betamethasone Valerate krim,Obat kortikosteroid topikal untuk mengobati peradangan dan gatal pada kulit
+25,246,Salicyl talk,Obat topikal untuk mengobati kondisi kulit seperti psoriasis dan dermatitis
+26,247,Kloderma krim,Obat topikal untuk mengobati kondisi kulit dan peradangan
+27,248,Bedak Salicyl,Obat topikal dalam bentuk bedak untuk mengobati kondisi kulit
+28,249,Ambeven,Obat untuk mengobati wasir (hemoroid) dan mengurangi gejala terkait
+29,250,Cefadroxil 500 mg,Antibiotik golongan sefalosporin untuk mengobati infeksi bakteri saluran pernapasan dan kulit
+30,251,Glucosamine 500 mg,Suplemen untuk kesehatan sendi dan mengurangi nyeri pada osteoartritis
+31,252,Betadine gargle,Antiseptik untuk berkumur dan mengobati infeksi mulut dan tenggorokan
+32,253,Alletrol tetes mata,Obat tetes mata untuk mengobati alergi mata dan konjungtivitis
+33,254,Erlamycetin plus tetes mata,Obat tetes mata antibiotik untuk mengobati infeksi mata
+34,255,Caviplex,Suplemen multivitamin untuk memenuhi kebutuhan vitamin dan mineral
+35,256,Salep 2-4,Obat topikal untuk mengobati kondisi kulit
+36,257,Ichtyol salep,Obat topikal untuk mengobati jerawat dan kondisi kulit bernanah
+37,258,Gom,Obat untuk mengobati gangguan pencernaan
+38,259,Neuralgin,Obat untuk mengurangi nyeri saraf dan neuralgia
+39,260,Zink dispersibel 20 mg,Suplemen zinc untuk meningkatkan daya tahan tubuh dan penyembuhan luka
+40,261,Bronsolvan,Obat untuk mengobati batuk dan mengencerkan dahak
+41,262,Kalnex (Asam Tranexamat) 250 mg,Obat untuk menghentikan perdarahan dan mengobati perdarahan berlebihan
+42,263,"Kalmethason 0,5 mg",Obat kortikosteroid untuk mengobati peradangan dan reaksi alergi
+43,264,Zegavit,Suplemen multivitamin untuk memenuhi kebutuhan vitamin
+44,265,Bioplacenton,Obat untuk mempercepat penyembuhan luka dan regenerasi jaringan
+45,266,"Gentamicin 0,3% salep mata",Antibiotik tetes mata untuk mengobati infeksi mata
+46,267,Eyefresh tetes mata,Obat tetes mata untuk mengatasi mata kering dan iritasi
+47,268,Vitamin C 250 mg,Suplemen vitamin C untuk meningkatkan daya tahan tubuh
+48,269,Hydrocortisone krim,Obat kortikosteroid topikal untuk mengobati peradangan kulit ringan
+49,270,Oralit,Larutan rehidrasi oral untuk mengatasi dehidrasi akibat diare
+50,272,Tera F,Suplemen untuk kesehatan
+51,273,Asam mefenamat 500 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri dan demam
+52,274,Thrombophob gel,Obat topikal untuk mengobati tromboflebitis dan varises
+53,275,Sangobion,Suplemen penambah darah untuk mengobati anemia defisiensi besi
+54,276,"Concor 2,5 mg",Obat antihipertensi golongan beta blocker untuk menurunkan tekanan darah
+55,277,Zensoderm salep,Obat topikal untuk mengobati kondisi kulit
+56,278,Dextral,Obat untuk mengobati gangguan sirkulasi darah
+57,279,Alpara,Obat untuk mengobati gangguan pencernaan
+58,280,Flucadex,Obat antijamur untuk mengobati infeksi jamur sistemik
+59,281,Grafalin 2 mg,Obat untuk mengobati gangguan mental dan psikosis
+60,282,Grafalin 4 mg,Obat untuk mengobati gangguan mental dan psikosis dosis tinggi
+61,283,Vosea,Obat untuk mengobati mual dan muntah
+62,284,Grafazol 500 mg,Obat antibiotik untuk mengobati infeksi bakteri
+63,285,Flutamol,Obat untuk mengobati demam dan nyeri
+64,286,Dexteem plus,Obat untuk mengobati batuk dan flu
+65,287,Hufadextamine,Obat untuk mengobati alergi dan antihistamin
+66,288,Hufagrip BP sirup,Obat sirup untuk mengobati batuk dan pilek
+67,289,Hufagesic 120 mg/5ml sirup,Obat sirup pereda nyeri dan demam untuk anak
+68,290,Hufadon sirup,Obat sirup untuk mengobati mual dan muntah
+69,291,Hufanoxil Forte 250 mg/ 5 ml sirup,Antibiotik sirup untuk mengobati infeksi bakteri pada anak
+70,292,Hufamag sirup,Obat sirup untuk mengobati gangguan pencernaan
+71,293,H-Booster,Suplemen untuk meningkatkan daya tahan tubuh
+72,294,Hufadon 10 mg,Obat untuk mengobati mual dan muntah
+73,295,Hufamag plus,Obat untuk mengobati gangguan pencernaan dan maag
+74,296,Dohixat (Doxicycline) 100 mg,Antibiotik golongan tetrasiklin untuk mengobati infeksi bakteri
+75,297,Fasiprim (cotrimoxazole) sirup,Antibiotik sirup untuk mengobati infeksi saluran kemih pada anak
+76,298,Yusimox 125 mg/ 5 ml sirup,Antibiotik sirup untuk mengobati infeksi bakteri pada anak
+77,299,Diastrix (Loperamide),Obat untuk mengobati diare akut dan kronis
+78,300,Histigo (Betahistine) 6 mg,Obat untuk mengobati vertigo dan gangguan keseimbangan
+79,301,Estalex,Obat untuk mengobati gangguan mental dan kecemasan
+80,302,Farsifen 200 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri
+81,303,Farsifen 400 mg,Obat antiinflamasi nonsteroid (NSAID) dosis tinggi untuk mengurangi nyeri
+82,304,Dionicol (Thiamphenicol) 500 mg,Antibiotik untuk mengobati infeksi bakteri saluran pernapasan
+83,305,Glikos 850 mg,Obat antidiabetes untuk mengontrol gula darah
+84,306,Loperamide HCl 2 mg,Obat untuk mengobati diare akut
+85,307,Antalgin 500 mg,Obat analgesik untuk mengurangi nyeri dan demam
+86,308,Alleron 4 mg,Obat antihistamin untuk mengobati alergi
+87,309,Vitamin C 25 mg,Suplemen vitamin C dosis rendah untuk anak
+88,310,Allopurinol 100 mg,Obat untuk mengobati asam urat (gout) dan mencegah batu ginjal
+89,311,Clindamycin 300 mg,Antibiotik untuk mengobati infeksi bakteri anaerob
+90,312,Methylprednisolon 4 mg,Obat kortikosteroid untuk mengobati peradangan dan reaksi alergi
+91,313,Ketoconazole 200 mg,Obat antijamur oral untuk mengobati infeksi jamur sistemik
+92,314,"Ramipril 2,5 mg",Obat antihipertensi golongan ACE inhibitor untuk menurunkan tekanan darah
+93,315,Ondansentron 4 mg,Obat untuk mencegah dan mengobati mual muntah
+94,316,Ondansentron 8 mg,Obat untuk mencegah dan mengobati mual muntah dosis tinggi
+95,317,Isosorbide dinitrate 5 mg,Obat untuk mengobati angina dan gagal jantung
+96,318,Lacto b,Probiotik untuk menjaga kesehatan saluran pencernaan
+97,319,Bisoprolol 5 mg,Obat antihipertensi golongan beta blocker untuk menurunkan tekanan darah
+98,320,Candesartan 8 mg,Obat antihipertensi golongan ARB untuk menurunkan tekanan darah
+99,321,Candesartan 16 mg,Obat antihipertensi golongan ARB dosis tinggi untuk menurunkan tekanan darah
+101,323,Lansoprazole,Obat untuk mengobati tukak lambung dan GERD
+103,326,Furosemid 40 mg,Obat diuretik untuk mengobati edema dan gagal jantung
+104,327,Ethambutol 500 mg,Obat antituberkulosis untuk mengobati tuberkulosis
+105,328,Bronex (Bromhexine) 8 mg,Obat ekspektoran untuk mengencerkan dahak
+106,329,Cefixime 100 mg,Antibiotik golongan sefalosporin untuk mengobati infeksi bakteri
+107,330,Fenofibrate,Obat untuk menurunkan kadar kolesterol dan trigliserida
+108,331,Atorvastatin 10 mg,Obat penurun kolesterol golongan statin
+109,332,Loratadine 10 mg,Obat antihistamin untuk mengobati alergi
+110,333,Atorvastatin 20 mg,Obat penurun kolesterol golongan statin dosis tinggi
+111,334,Kalium Diklofenak 50 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri dan peradangan
+112,335,Ranitidin 150 mg,Obat untuk mengobati tukak lambung dan mengurangi produksi asam lambung
+113,336,Allopurinol 300 mg,Obat untuk mengobati asam urat (gout) dosis tinggi
+114,337,Ciprofloxacin 500 mg,Antibiotik golongan fluorokuinolon untuk mengobati infeksi bakteri
+115,338,Metformin 500 mg,Obat antidiabetes untuk mengontrol gula darah pada diabetes tipe 2
+116,339,Fasgo 500 mg,Obat untuk mengobati gangguan pencernaan
+117,340,Omeprazole 20 mg,Obat untuk mengobati tukak lambung dan GERD
+118,341,Ambroxol 30 mg,Obat ekspektoran untuk mengencerkan dahak
+119,342,Levofloxacin 500 mg,Antibiotik golongan fluorokuinolon untuk mengobati infeksi bakteri
+120,343,Cataflam 50 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri akut
+121,345,Xepazym,Obat enzim pencernaan untuk membantu pencernaan makanan
+122,346,OBH,Obat batuk untuk meredakan batuk kering
+123,347,Curcuma,Suplemen herbal untuk kesehatan hati dan pencernaan
+124,349,Aspilet 100 mg,Obat antiplatelet untuk mencegah penggumpalan darah
+125,350,Strocain,Obat anestesi lokal untuk mengurangi nyeri
+126,351,Licokalk,Suplemen kalsium untuk kesehatan tulang
+127,352,Sumagesic (paracetamol) 600 mg,Obat analgesik untuk mengurangi nyeri dan demam
+128,353,Rifabiotic 600 mg,Antibiotik untuk mengobati infeksi bakteri
+129,354,Cefadroxil sirup,Antibiotik sirup untuk mengobati infeksi bakteri pada anak
+130,355,Microlax,Obat pencahar untuk mengobati konstipasi
+131,356,Nusaplex,Suplemen multivitamin untuk memenuhi kebutuhan vitamin
+132,357,Ardium,Obat untuk mengobati gangguan sirkulasi darah
+133,358,New diatab,Obat untuk mengobati diare
+134,360,Cotrimoxazol 480,Antibiotik kombinasi untuk mengobati infeksi saluran kemih
+135,361,FG Trhoches,Obat untuk mengobati infeksi mulut dan tenggorokan
+136,362,Buscopan,Obat untuk mengurangi kejang otot polos saluran pencernaan
+137,365,Sucralfat sirup,Obat untuk mengobati tukak lambung dan melindungi mukosa lambung
+138,366,Laxadine sirup,Obat pencahar sirup untuk mengobati konstipasi
+139,367,Eryra (Erythromycin) 500 mg,Antibiotik golongan makrolida untuk mengobati infeksi bakteri
+140,368,Erlamycetin salep mata,Antibiotik salep mata untuk mengobati infeksi mata
+141,369,Erlamycetin tetes telinga,Antibiotik tetes telinga untuk mengobati infeksi telinga
+142,370,Scabimite,Obat untuk mengobati skabies (kudis)
+143,372,Amlodipin 5 mg,Obat antihipertensi golongan calcium channel blocker dosis sedang
+144,373,Cetirizine 10 mg,Obat antihistamin untuk mengobati alergi
+145,375,Glimepiride 2 mg,Obat antidiabetes untuk mengontrol gula darah pada diabetes tipe 2
+146,379,Acetylcysteine 200 mg,Obat mukolitik untuk mengencerkan dahak
+148,381,Anastan (Asam Mefenamat) 500 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri
+151,387,Ambroxol sirup,Obat ekspektoran sirup untuk mengencerkan dahak
+158,396,Glimepiride 3 mg,Obat antidiabetes untuk mengontrol gula darah dosis sedang
+159,397,Glimepiride 4 mg,Obat antidiabetes untuk mengontrol gula darah dosis tinggi
+161,399,Isoniazid 300,Obat antituberkulosis untuk mengobati tuberkulosis
+163,401,Metronidazol 500 mg,Antibiotik untuk mengobati infeksi bakteri anaerob dan parasit
+164,402,Rifampicin 450 mg,Obat antituberkulosis untuk mengobati tuberkulosis
+165,403,Rifampicin 600 mg,Obat antituberkulosis untuk mengobati tuberkulosis dosis tinggi
+166,404,Simvastatin 10 mg,Obat penurun kolesterol golongan statin dosis rendah
+167,405,Tetracycline HCl 500 mg,Antibiotik golongan tetrasiklin untuk mengobati infeksi bakteri
+169,407,Kalnex 500 mg,Obat untuk menghentikan perdarahan dan mengobati perdarahan berlebihan
+172,410,Vitamin C 500 mg,Suplemen vitamin C dosis tinggi untuk meningkatkan daya tahan tubuh
+173,412,Epexol Sirup 15 mg/5 ml,Obat sirup untuk mengobati batuk dan pilek
+174,413,Pyfaton tablet,Obat untuk mengobati gangguan pencernaan
+175,414,Hufabethamin,Suplemen vitamin B kompleks
+176,415,Hufadextamine tablet,Obat antihistamin untuk mengobati alergi
+177,416,Hufadine 150 mg,Obat untuk mengobati tukak lambung
+178,417,Hufaflox 500 mg,Antibiotik golongan fluorokuinolon untuk mengobati infeksi bakteri
+179,418,Fasidol 120 mg/5 ml sirup,Obat sirup pereda nyeri dan demam untuk anak
+180,419,Fasidol forte 160 mg / 5 ml,Obat sirup pereda nyeri dan demam dosis tinggi untuk anak
+181,420,Kaditic 50 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri
+182,421,Lerzin 10 mg,Obat antihistamin untuk mengobati alergi
+183,422,Lerzin Sirup,Obat antihistamin sirup untuk mengobati alergi pada anak
+184,423,Lostacef 125 mg sirup,Antibiotik sirup untuk mengobati infeksi bakteri pada anak
+185,424,Lostacef 250 mg sirup,Antibiotik sirup untuk mengobati infeksi bakteri dosis tinggi pada anak
+186,425,Milorin 300 mg,Obat untuk mengobati asam urat (gout)
+187,426,Nystatin,Obat antijamur untuk mengobati infeksi jamur mulut dan kulit
+188,427,Odanostin 4 mg,Obat untuk mencegah dan mengobati mual muntah
+189,428,Solinfec 200 mg,Obat antijamur untuk mengobati infeksi jamur
+190,429,Winatin 10 mg,Obat antihistamin untuk mengobati alergi
+191,430,Yusimox forte 250 mg sirup,Antibiotik sirup untuk mengobati infeksi bakteri dosis tinggi pada anak
+196,435,Ramipril 5 mg,Obat antihipertensi golongan ACE inhibitor dosis tinggi
+198,437,Cefixime 200 mg,Antibiotik golongan sefalosporin untuk mengobati infeksi bakteri
+199,438,Cetirizine,Obat antihistamin untuk mengobati alergi
+202,441,Mecobalamine,Suplemen vitamin B12 untuk mengobati neuropati
+205,445,Oseltamivir kapsul,Obat antiviral untuk mengobati influenza
+206,446,Zinkid,Suplemen zinc untuk anak meningkatkan daya tahan tubuh
+213,453,Clopidogrel,Obat antiplatelet untuk mencegah penggumpalan darah
+215,455,Profat sirup,Suplemen penambah darah sirup untuk anak
+216,456,Volten 50 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri
+217,458,Burnazine,Obat topikal untuk mengobati luka bakar
+218,461,Rosidon (Domperidone) sirup,Obat sirup untuk mengobati mual muntah dan gangguan pencernaan
+219,462,Aspar K,Suplemen kalium untuk menjaga keseimbangan elektrolit
+220,463,Forumen,Obat untuk mengobati gangguan pencernaan
+221,464,Hypofil 300 mg,Obat untuk mengobati asam urat (gout)
+223,466,Zirkum kid tablet,Suplemen zinc untuk anak
+224,468,Qom,Obat untuk mengobati gangguan pencernaan
+225,469,Redoxone,Suplemen antioksidan untuk kesehatan
+230,475,Gastrucid,Obat untuk mengobati gangguan pencernaan dan maag
+231,476,Viter D 1000 iu,Suplemen vitamin D untuk kesehatan tulang
+233,479,Vitamin B Complex,Suplemen vitamin B kompleks untuk kesehatan saraf
+234,480,Daneuron,Obat untuk mengobati gangguan saraf
+235,481,Koni-e 400 IU,Suplemen vitamin E untuk kesehatan kulit
+239,485,Simucil 200 mg,Obat mukolitik untuk mengencerkan dahak
+241,487,Levofloxacin,Antibiotik golongan fluorokuinolon untuk mengobati infeksi bakteri
+247,494,Metformin 850 mg,Obat antidiabetes untuk mengontrol gula darah dosis tinggi
+249,496,Trogyl (Metronidazole) sirup,Antibiotik sirup untuk mengobati infeksi bakteri anaerob dan parasit
+250,497,Cetiripim (Cetirizine) 10 mg tablet,Obat antihistamin untuk mengobati alergi
+251,498,Lameson (Methyl Prednisolone) 4 mg,Obat kortikosteroid untuk mengobati peradangan dan reaksi alergi
+252,499,Flunarizin 10 mg,Obat untuk mengobati vertigo dan migrain
+253,500,Mexon tablet,Obat untuk mengobati gangguan pencernaan
+254,501,Medscab cr (Scabies),Obat topikal untuk mengobati skabies (kudis)
+255,502,counterpain,Obat topikal untuk mengurangi nyeri otot dan sendi
+258,508,Betamethasone krim,Obat kortikosteroid topikal untuk mengobati peradangan kulit
+260,510,kendaron,Obat untuk mengobati gangguan irama jantung
+263,514,Merislon (Betahistine) 6 mg,Obat untuk mengobati vertigo dan gangguan keseimbangan
+264,515,Molex flu,Obat untuk mengobati gejala flu dan batuk
+265,516,Neurobion Forte,Suplemen vitamin B kompleks untuk kesehatan saraf
+267,519,Decivir,Obat antiviral untuk mengobati infeksi virus
+268,520,Tremenza,Obat untuk mengobati gejala flu dan batuk
+269,521,Zeviton,Suplemen untuk kesehatan
+270,522,Asam Mefenamat 500 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri dan demam
+271,523,Lodia,Obat untuk mengobati diare
+273,525,Sanmol Forte sirup 250 mg/5 ml,Obat sirup pereda nyeri dan demam dosis tinggi untuk anak
+274,526,Prolon 4 mg,Obat untuk mencegah dan mengobati mual muntah
+275,527,Grantusif,Obat untuk mengobati batuk
+277,529,Sanmol sirup 120 mg/ 5 ml,Obat sirup pereda nyeri dan demam untuk anak
+278,530,Eflagen 50 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri
+279,531,Episan Sirup,Obat sirup untuk mengobati batuk dan pilek
+280,532,Flamar Gel,Obat topikal gel untuk mengurangi nyeri dan peradangan
+281,533,Sanmol 500 mg,Obat analgesik untuk mengurangi nyeri dan demam
+282,534,Lecozinc,Suplemen zinc untuk meningkatkan daya tahan tubuh
+283,535,Neurosanbe,Suplemen vitamin B kompleks untuk kesehatan saraf
+284,536,Mefinal 500 mg,Obat antiinflamasi nonsteroid (NSAID) untuk mengurangi nyeri
+285,537,Silopect 30 mg,Obat ekspektoran untuk mengencerkan dahak
+286,538,Betaver 6 mg,Obat untuk mengobati vertigo dan gangguan keseimbangan
+287,539,Blocand 8 mg,Obat antihipertensi golongan ARB untuk menurunkan tekanan darah
+288,540,Blocand 16 mg,Obat antihipertensi golongan ARB dosis tinggi untuk menurunkan tekanan darah
+289,541,Vosedon 10 mg,Obat untuk mengobati mual muntah dan gangguan pencernaan
+290,542,"Cortidex 0,5 mg",Obat kortikosteroid untuk mengobati peradangan dan reaksi alergi
+291,543,Sanmol Drop 0.6 ml/60 mg,Obat tetes pereda nyeri dan demam untuk bayi
+292,544,Kenalog In Orabase Salep,Obat topikal untuk mengobati sariawan dan luka di mulut
+293,545,Nymiko Drop,Obat tetes untuk mengobati infeksi jamur
+294,546,Sanprima 480 mg,Antibiotik kombinasi untuk mengobati infeksi saluran kemih
+295,547,Sanprima Forte 960 mg,Antibiotik kombinasi dosis tinggi untuk mengobati infeksi saluran kemih
+296,548,Anti Hemoroid SUPPOSITORIA,Obat suppositoria untuk mengobati wasir (hemoroid)
+297,549,Probiokid,Probiotik untuk anak menjaga kesehatan saluran pencernaan
+298,550,Plasminex 500 mg,Obat untuk menghentikan perdarahan
+299,1542,Molagit,Antasida untuk mengatasi sakit maag dan gangguan pencernaan
+300,1543,Lambucid,Antasida untuk meredakan gejala asam lambung berlebih
+301,1544,RZ-20 sirup,Sirup antasida untuk mengatasi gangguan lambung pada anak
+302,1545,Sirplus,Sirup multivitamin untuk meningkatkan daya tahan tubuh
+303,1546,Sanmol Forte 650 mg,Paracetamol dosis tinggi untuk meredakan demam dan nyeri
+304,2545,Omeprazole,Obat penghambat pompa proton untuk mengatasi tukak lambung
+305,2546,Lactulax,Pencahar osmotik untuk mengatasi konstipasi
+307,2548,Vesperum sirup,Sirup ekspektoran untuk meredakan batuk berdahak
+309,2550,Lansoprazole 30 mg,Obat penghambat pompa proton untuk gangguan lambung
+310,2551,Furosemide 40 mg,Diuretik untuk mengatasi pembengkakan dan hipertensi
+311,2552,Formyco krim,Krim antijamur untuk mengatasi infeksi kulit
+312,2553,Sanprima Sirup,Sirup antibiotik kombinasi untuk infeksi bakteri
+313,2554,Gentoint salep mata,Salep mata antibiotik untuk mengatasi infeksi mata
+314,2555,Alco plus DMP sirup,Sirup batuk dengan dekstrometorfan untuk batuk kering
+315,2556,Silopect  15mg/5ml sirup,Sirup ekspektoran untuk mengatasi batuk berdahak
+316,2557,Mecobalamin,Vitamin B12 untuk mengatasi neuropati dan anemia
+320,2561,Gen Oint Salep Mata,Salep mata antibiotik untuk infeksi mata bakteri
+321,2562,Folavit 400 mcg,Suplemen asam folat untuk ibu hamil dan anemia
+322,2563,TB vit B6,Vitamin B6 untuk mengatasi defisiensi dan neuropati
+323,2564,Analsik,Analgesik untuk meredakan nyeri dan demam
+324,2565,Flutamol P,Paracetamol untuk meredakan demam dan nyeri ringan
+325,2566,Genalten salep,Salep anti-inflamasi untuk mengatasi peradangan kulit
+326,2567,Bufect 200 mg,Ibuprofen untuk meredakan nyeri dan peradangan
+327,2568,Dulcolax,Pencahar stimulan untuk mengatasi konstipasi
+330,2571,Vitamin B complex,Suplemen vitamin B kompleks untuk kesehatan saraf
+332,2573,Vitamin B komplek,Suplemen vitamin B kompleks untuk metabolisme
+333,2574,Pamol 125 mg supp,Suppositoria paracetamol untuk demam pada anak
+334,2575,Pamol 250 mg supp,Suppositoria paracetamol dosis tinggi untuk demam
+335,2576,Hepa Q,Hepatoprotektor untuk kesehatan hati
+336,2577,Zine Sirup,Sirup zinc untuk meningkatkan daya tahan tubuh
+337,2578,Neo Entrostop,Obat antidiare untuk mengatasi diare akut
+338,2579,Amoxicillin Trihydrate 500 mg,Antibiotik penisilin untuk infeksi bakteri
+339,3545,Acetin,Obat antihistamin untuk mengatasi alergi
+340,3546,Ondansetron 8 mg,Antiemetik untuk mengatasi mual dan muntah
+341,3547,Ondansetron 4 mg,Antiemetik dosis rendah untuk mual ringan
+342,3548,dohixat (doxycycline),Antibiotik tetrasiklin untuk infeksi bakteri
+345,3551,Pharolit,Larutan elektrolit untuk mengatasi dehidrasi
+346,3552,Curcuma,Suplemen herbal kunyit untuk kesehatan lambung
+348,3554,Clopidogrel 75mg,Antiplatelet untuk mencegah pembekuan darah
+349,3555,Caviplex sirup,Sirup multivitamin untuk anak-anak
+350,3556,Devit 1000iu,Vitamin D3 untuk kesehatan tulang
+352,3558,Domperidon 10 mg,Prokinetik untuk mengatasi mual dan muntah
+353,3559,Eyefresh Minidose,Obat tetes mata untuk mata kering
+355,3561,BIOPLACENTON,Gel untuk mempercepat penyembuhan luka
+358,3564,Antasida Sirup,Sirup antasida untuk mengatasi asam lambung
+359,3565,Betametason,Kortikosteroid untuk mengatasi peradangan
+361,3567,Faktu Ointment,Salep untuk mengatasi wasir dan peradangan anus
+362,3568,Tantum Verde,Obat kumur antiseptik untuk radang tenggorokan
+363,3569,FDC INTENSIF,Suplemen zat besi untuk anemia berat
+364,3570,Hexavask,Obat untuk mengatasi gangguan pembuluh darah
+365,3571,Epexol Tablet,Suplemen untuk kesehatan jantung
+366,3572,Zinc tablet,Suplemen zinc untuk daya tahan tubuh
+367,3573,Amlodipine 10 mg,Calcium channel blocker untuk hipertensi
+369,3575,Hufarizine 10 mg,Antihistamin untuk mengatasi alergi
+370,3576,"Hydrocortisone 2,5%",Kortikosteroid topikal untuk peradangan kulit
+371,3577,D-vit 400 iu sirup,Sirup vitamin D untuk anak-anak
+372,3578,Cefadroxil 500 mg,Antibiotik sefalosporin untuk infeksi bakteri
+373,3579,Ketricin 4 Mg,Antihistamin untuk mengatasi alergi
+374,3580,Devit 5000iu,Vitamin D3 dosis tinggi untuk defisiensi
+375,3581,Prosinal Forte 200 mg Sirup,Sirup ibuprofen untuk nyeri dan demam
+376,3582,Paratusin,Obat batuk ekspektoran untuk batuk berdahak
+377,3583,Lostacef Kapsul 500 mg,Antibiotik sefalosporin untuk infeksi serius
+378,3584,Permethrin 5%,Obat topikal untuk mengatasi skabies
+379,3585,Acetylcysteine,Mukolitik untuk mengencerkan dahak
+380,3586,Laxadilac sirup,Sirup pencahar untuk konstipasi pada anak
+381,3587,Vitamin C 50 mg,Suplemen vitamin C untuk daya tahan tubuh
+382,3588,Pantoprazole,Penghambat pompa proton untuk tukak lambung
+383,3589,Fuson krim,Krim antijamur untuk infeksi kulit
+384,3590,Relaxon,Muscle relaxant untuk mengatasi kejang otot
+385,4584,Thrombo Aspilet,Aspirin dosis rendah untuk pencegahan stroke
+386,4585,Gamesolone,Kortikosteroid untuk mengatasi peradangan
+387,4586,Methylprednisolone 4 mg,Kortikosteroid untuk peradangan dan alergi
+388,4587,FDC LANJUTAN,Suplemen zat besi untuk pemeliharaan
+389,4588,Gasogal,Obat untuk mengatasi gangguan pencernaan
+390,4589,"Bisoprolol 2,5 mg",Beta blocker untuk hipertensi dan jantung
+391,4590,Flunarinzine 5 mg,Obat untuk mencegah migrain
+392,4591,Mixalgin,Analgesik kombinasi untuk nyeri sedang
+393,4592,L-Bio,Probiotik untuk kesehatan saluran pencernaan
+394,4593,Azithromycin 500 Mg,Antibiotik makrolida untuk infeksi bakteri
+395,4594,Paracetamol 500 mg,Analgesik antipiretik untuk demam dan nyeri
+396,4595,Tablet Tambah Darah,Suplemen zat besi untuk anemia
+397,4596,Etabion,Suplemen vitamin dan mineral
+398,4597,Ermethason 0.5 mg,Kortikosteroid untuk peradangan ringan
+399,4598,Ulfat Sirup,Sirup antasida untuk gangguan lambung
+400,4599,Minyak Kayu Putih,Minyak esensial untuk mengatasi masuk angin
+401,4600,Ascardia 80 mg,Obat untuk mengatasi gangguan jantung
+402,4601,Galvusmet 50 mg/500 mg,Kombinasi obat diabetes tipe 2
+403,4602,Dexamethasone 0.5 mg,Kortikosteroid untuk peradangan dan alergi
+404,4603,Bionemi,Suplemen untuk mengatasi anemia
+406,4605,Rifamtibi 600mg,Antibiotik untuk pengobatan tuberkulosis
+407,4606,Scopma,Antispasmodik untuk mengatasi kram perut
+408,4607,Pyradec,Antihistamin untuk mengatasi alergi
+409,4608,Propranolol,Beta blocker untuk hipertensi dan jantung
+410,4609,Nisagon Cream,Krim untuk mengatasi infeksi kulit
+411,4610,Megazing,Suplemen zinc untuk daya tahan tubuh
+413,4612,Farizol Tabet,Obat antiparasit untuk infeksi cacing
+415,4614,Tuzalos,Obat untuk mengatasi gangguan saluran kemih
