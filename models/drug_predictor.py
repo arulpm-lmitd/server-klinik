@@ -70,8 +70,10 @@ class DrugPredictor:
                 self.initialization_status["progress"] = 20
                 self.initialization_status["message"] = "Loading model from Hugging Face..."
                 
+                # FIX: Add trust_remote_code=True to allow custom code execution
                 self.model = SentenceTransformer(
-                    self.config.MODEL_NAME
+                    self.config.MODEL_NAME,
+                    trust_remote_code=True
                 )
                 
                 logger.info("Model loaded successfully!")
